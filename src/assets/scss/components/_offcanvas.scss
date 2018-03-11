@@ -17,6 +17,7 @@ html, body {
     flex-direction: column;
     background: rgba($offcanvas-background, $offcanvas-background-opacity);  
     color: $offcanvas-text-color;
+    overflow: auto;
 
     //color of the links 
     a:link, a:visited {
